@@ -1,6 +1,6 @@
 $primary: #00a14c;
 
-@import "bootstrap/scss/bootstrap";
+@import 'bootstrap/scss/bootstrap';
 
 @tailwind base;
 @tailwind components;
@@ -8,5 +8,5 @@ $primary: #00a14c;
 
 html,
 body {
-	font-family: "Red Hat Display", sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
 }
